@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p162661-e1741323.adobeaemcloud.com/bin/franklin.delivery/ashwini-9/universal-editor-eds-v2/main"
+    url: "https://author-p162620-e1741287.adobeaemcloud.com/bin/franklin.delivery/ashwini-9/universal-editor-eds-v2/main"
     type: "markup"
     suffix: ".html"
